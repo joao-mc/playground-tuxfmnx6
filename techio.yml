@@ -1,14 +1,12 @@
 title: Introdução a Programação C
 cover: /cover.png
 plan:
-- title: Introdução a Programação C
-plan:
 - title: Conceitos Básicos
   description: Esta é a descrição do primeiro capítulo.
   plan:
   - title: Apresentação
     statement: /markdowns/apresentacao.md
-  - title: Introdução a Programação C
+  - title: Introdução à linguagem C
     statement: /markdowns/welcome.md
   - title: Anatomia de um Programa C
     statement: /markdowns/lesson2.md
@@ -18,35 +16,35 @@ plan:
     statement: /markdowns/lesson4.md
   - title: Testando os Conhecimentos
     statement: /markdowns/Quiz_lesson4.md
-- title: Programando com C 
+- title: Programando com C
   description: Aprendendo a programar.
   plan:
   - title: Entrada de Dados
     statement: markdowns/lesson5.md
   - title: Processamento Sequencial
-    statement: markdowns/lesson6.md  
+    statement: markdowns/lesson6.md
   - title: Exercícios Processamento Sequencial
     statement: markdowns/lesson7.md
   - title: Processamento Condicional
-    statement: markdowns/lesson8.md  
+    statement: markdowns/lesson8.md
   - title: Processamento Condicional - Simples
     statement: markdowns/lesson9.md
   - title: Processamento Condicional - Composta
     statement: markdowns/lesson10.md
   - title: Exercícios Processamento Condicional
     statement: markdowns/lesson.md
-  - title: Processamento com Repetição - For 
-    statement: markdowns/lesson12.md 
   - title: Processamento com Repetição - For
-    statement: markdowns/lesson13.md   
+    statement: markdowns/lesson12.md
+  - title: Processamento com Repetição - For
+    statement: markdowns/lesson13.md
   - title: Processamento com Repetição - While
-    statement: markdowns/lesson14.md  
+    statement: markdowns/lesson14.md
   - title: Processamento com Repetição - While
-    statement: markdowns/lesson15.md     
+    statement: markdowns/lesson15.md
   - title: Processamento com Repetição - While
     statement: markdowns/lesson16.md
   - title: Processamento com Repetição - While
-    statement: markdowns/lesson17.md  
+    statement: markdowns/lesson17.md
 projects:
   cpp:
     root: /cpp-project
