@@ -4,9 +4,7 @@ plan:
 - title: Conceitos Básicos
   description: Esta é a descrição do primeiro capítulo.
   plan:
-  - title: Apresentação
-    statement: /markdowns/apresentacao.md
-  - title: Introdução à linguagem C
+   - title: Introdução à linguagem C
     statement: /markdowns/welcome.md
   - title: Anatomia de um Programa C
     statement: /markdowns/lesson2.md
